@@ -1,0 +1,25 @@
+{
+  "name": "EventEmitter-async",
+  "version": "0.0.1",
+  "main": "EventEmitter.js",
+  "ignore": [
+    ".bowerrc",
+    ".gitignore",
+    "README.md",
+    "bower_components",
+    "**/.*",
+    "node_modules",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "mocha": "*",
+    "assert": "*"
+  },
+  "homepage": "https://github.com/joechee/EventEmitter-async",
+  "authors": [
+    "Joe Chee <joe.chee@gmail.com>"
+  ],
+  "description": "Yet another EventEmitter implementation",
+  "license": "MIT"
+}
