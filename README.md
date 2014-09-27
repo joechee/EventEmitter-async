@@ -29,5 +29,7 @@ Note: Callbacks should be either be 100% synchronous/ 100% asynchronous accordin
 
 To run browser tests, open `test.html`.
 
+### Install via bower
 
+`bower install eventemitter-async --save`
 
